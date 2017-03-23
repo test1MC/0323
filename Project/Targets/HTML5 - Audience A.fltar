@@ -12,7 +12,7 @@
   ResultsPerPage="10"
   Skin="/Project/Skins/HTML5 - Top Navigation - Tree.flskn"
   ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] "
-  DefaultUrl="/Content/A_Getting Started/Home.htm"
+  DefaultUrl="/Content/A_Getting Started/NewFolder/Home.htm"
   UseDeviceWidth="false">
   <PrintedOutput
     CollapseMargins="true"
